@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #d0e8ff;
+    background-color: #FF7DBA;
     color: #333;
 }
 
@@ -14,13 +14,13 @@ body {
 
 .container {
     text-align: center;
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
     padding: 20px;
 }
 
 .project {
-    background-color: #fff;
+    background-color: #FF7DBA;
     margin: 20px 0;
     padding: 20px;
     border-radius: 8px;
@@ -39,7 +39,7 @@ body {
 }
 .project a {
     text-decoration: none;
-    color: #4CAF50;
+    color: #FF7DBA;
     font-weight: bold;
 }
 .project a:hover {
