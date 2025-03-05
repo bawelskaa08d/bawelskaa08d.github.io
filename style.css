@@ -83,7 +83,7 @@ header {
 }
 
 h1 {
-    color: #c23333;
+    color: #b3155d;
 }
 
 h2, h3 {
@@ -94,7 +94,7 @@ nav ul {
     list-style: none;
     padding: 0;
     text-align: center;
-    background-color: #005bb5;
+    background-color: #ffbedc;
     margin: 0;
 }
 
@@ -138,7 +138,7 @@ button {
 }
 
 button:hover {
-    background-color: #9c7486;
+    background-color: #b3155d;
 }
 
 input, textarea {
