@@ -32,10 +32,10 @@ body {
 }
 .project h2 {
     margin-top: 0;
-    color: #333;
+    color: white;
 }
 .project p {
-    color: #555;
+    color: white;
 }
 .project a {
     text-decoration: none;
